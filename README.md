@@ -1,16 +1,45 @@
-# React + Vite
+## 💡 What this project shows
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- My frontend development skills  
+- My understanding of UI/UX  
+- My ability to build client-ready websites  
 
-Currently, two official plugins are available:
+# 🚀 Personal Portfolio Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern and responsive portfolio website built to showcase my projects, skills, and services with a strong focus on user experience and conversions.
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+- Clean and modern UI design
+- Fully responsive across devices
+- Smooth animations and transitions
+- Project showcase section
+- Contact form for client inquiries
+- Component-based architecture
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- CSS / Tailwind (if used)
+- Vercel (Deployment)
+
+## 🎯 Purpose
+
+This portfolio is designed not just to display my work, but to convert visitors into potential clients by presenting clear value, strong visuals, and an intuitive user experience.
+
+## 📸 Preview
+
+(Add your screenshots here)
+
+## 🔗 Live Demo
+
+(Add your deployed link here)
+
+## 📬 Contact
+
+If you'd like to work together or have any opportunities, feel free to reach out.
+
+---
+
+⭐ If you like this project, consider giving it a star!
